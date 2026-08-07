@@ -20,7 +20,8 @@ const ChatModal = ({ isOpen, onClose, complaint }) => {
   useEffect(() => {
     if (!isOpen || !complaint) return;
 
-    socket = io(window.location.origin, {
+    const socketUrl = import.meta.env.VITE_API_URL || window.location.origin;
+    socket = io(socketUrl, {
       transports: ['websocket', 'polling']
     });
 
