@@ -112,10 +112,10 @@ npm run dev
 
 ## DEMO & EVALUATION LINKS SUMMARY
 
-- **GitHub Repository**: `https://github.com/sazin-13/ocr`
+- **GitHub Repository**: `https://github.com/sazin-13/OCR`
 - **Project Documentation Drive**: `https://drive.google.com/drive/folders/1Y3JpqHSJQjZ1EJNRQAXip4cEMVGBz-2j?usp=sharing`
-- **Live Render Backend API**: `https://your-render-backend.onrender.com`
-- **Live Vercel Frontend**: `https://your-vercel-frontend.vercel.app`
+- **Live Render Backend API**: `https://ocr-backend-ylhy.onrender.com`
+- **Live Vercel Frontend**: `https://ocr-vcco.vercel.app/`
 - **Admin Email**: `admin@coreresolvedesk.com`
 - **Admin Password**: `admin123`
 - **Agent Email**: `agent@coreresolvedesk.com`
