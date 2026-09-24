@@ -122,3 +122,5 @@ npm run dev
 - **Agent Password**: `agent123`
 - **User Email**: `user@coreresolvedesk.com`
 - **User Password**: `user123`
+
+# OCR
