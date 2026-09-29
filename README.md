@@ -113,7 +113,7 @@ npm run dev
 ## DEMO & EVALUATION LINKS SUMMARY
 
 
-- **Project Documentation Drive**: `https://drive.google.com/drive/folders/1Y3JpqHSJQjZ1EJNRQAXip4cEMVGBz-2j?usp=sharing`
+- **Project Documentation Drive**: `https://drive.google.com/drive/folders/1pAS4UtyKADEmvBxoJlEtJFYrqVM7J6S1?usp=sharing`
 - **Admin Email**: `admin@coreresolvedesk.com`
 - **Admin Password**: `admin123`
 - **Agent Email**: `agent@coreresolvedesk.com`
